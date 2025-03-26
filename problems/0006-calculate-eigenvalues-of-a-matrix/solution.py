@@ -1,0 +1,8 @@
+import numpy as np
+def calculate_eigenvalues(matrix: list[list[float|int]]) -> list[float]:
+	matrix = np.array(matrix)
+	# calc determinator
+	# det = np.linalg.det(matrix)
+
+	eigenvalues, eigenvectors = np.linalg.eig(matrix)
+	return eigenvalues.tolist()
