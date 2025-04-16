@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:26:12.350Z",
+  "generated_at": "2026-10-07T18:26:14.221Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -325,6 +325,32 @@
       "last_pushed_at": "2025-04-12T02:09:02.312Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2025-04-16T00:14:40.432Z",
+      "last_pushed_at": "2025-04-16T00:14:40.432Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-04-16T00:21:36.943Z",
+      "last_pushed_at": "2025-04-16T00:21:36.943Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
