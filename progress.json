@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:26:20.102Z",
+  "generated_at": "2026-10-07T18:26:21.876Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -388,6 +388,19 @@
       "path": "problems/0037-calculate-correlation-matrix",
       "first_solved_at": "2025-04-22T03:13:35.030Z",
       "last_pushed_at": "2025-04-22T03:13:35.030Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2025-05-14T10:32:17.072Z",
+      "last_pushed_at": "2025-05-14T10:32:17.072Z",
       "language": "python",
       "lines": 22
     }
