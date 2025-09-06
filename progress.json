@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:26:27.700Z",
+  "generated_at": "2026-10-07T18:26:29.768Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -442,6 +442,45 @@
       "last_pushed_at": "2025-09-05T03:22:25.392Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-09-06T02:20:50.230Z",
+      "last_pushed_at": "2025-09-06T02:20:50.230Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-09-06T02:23:05.277Z",
+      "last_pushed_at": "2025-09-06T02:23:05.277Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:181": {
+      "kind": "problem",
+      "id": "181",
+      "title": "Sampling Distribution of the Mean",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/181",
+      "path": "problems/0181-sampling-distribution-of-the-mean",
+      "first_solved_at": "2025-09-06T02:30:41.589Z",
+      "last_pushed_at": "2025-09-06T02:30:41.589Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 34 problems · 0 labs · 0 math
+**37** solved · 37 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,8 +18,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2025-04-10 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-03-15 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-03-19 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-09-06 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-03-22 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-03-20 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-09-06 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2025-04-17 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2025-08-29 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-03-13 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -30,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-04-12 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2025-03-21 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-03-18 | [solution](problems/0003-reshape-matrix) |
+| [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2025-09-06 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-03-25 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-03-29 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2025-04-18 | [solution](problems/0024-single-neuron) |
