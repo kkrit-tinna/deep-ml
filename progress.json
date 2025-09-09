@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:26:31.682Z",
+  "generated_at": "2026-10-07T18:26:33.763Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -494,6 +494,32 @@
       "last_pushed_at": "2025-09-08T23:47:32.445Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2025-09-09T23:45:42.054Z",
+      "last_pushed_at": "2025-09-09T23:45:42.054Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2025-09-09T23:53:25.797Z",
+      "last_pushed_at": "2025-09-09T23:53:25.797Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
