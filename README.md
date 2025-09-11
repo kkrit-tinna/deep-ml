@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 40 problems · 0 labs · 0 math
+**41** solved · 41 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-03-12 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2025-04-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-26 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-09-11 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2025-09-09 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-09-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-03-27 | [solution](problems/0018-implement-k-fold-cross-validation) |
