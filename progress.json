@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:26:37.986Z",
+  "generated_at": "2026-10-07T18:26:40.280Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -557,6 +557,32 @@
       "path": "problems/0168-calculate-conditional-probability-from-data",
       "first_solved_at": "2025-09-12T02:40:55.246Z",
       "last_pushed_at": "2025-09-12T02:40:55.246Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2025-09-16T01:50:24.923Z",
+      "last_pushed_at": "2025-09-16T01:50:24.923Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2025-09-16T01:57:50.091Z",
+      "last_pushed_at": "2025-09-16T01:57:50.091Z",
       "language": "python",
       "lines": 22
     }
