@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-09-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-03-27 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2025-09-09 | [solution](problems/0173-implement-k-nearest-neighbors) |
+| [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-09-18 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-03-27 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-04-09 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-04-02 | [solution](problems/0007-matrix-transformation) |

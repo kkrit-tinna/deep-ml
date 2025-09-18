@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:26:42.236Z",
+  "generated_at": "2026-10-07T18:26:44.230Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -609,6 +609,19 @@
       "path": "problems/0071-calculate-root-mean-square-error-rmse",
       "first_solved_at": "2025-09-17T00:56:15.720Z",
       "last_pushed_at": "2025-09-17T00:56:15.720Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2025-09-18T03:46:20.297Z",
+      "last_pushed_at": "2025-09-18T03:46:20.297Z",
       "language": "python",
       "lines": 7
     }
