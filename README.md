@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 51 problems · 0 labs · 0 math
+**53** solved · 53 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-04-08 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2025-04-10 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2025-09-12 | [solution](problems/0168-calculate-conditional-probability-from-data) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-09-23 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-03-15 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2025-09-16 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2025-09-20 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
@@ -47,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-03-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2025-04-16 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-03-12 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-09-23 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2025-04-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-26 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-09-11 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
