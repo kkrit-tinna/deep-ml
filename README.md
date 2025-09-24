@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**55** solved · 55 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-09-16 | [solution](problems/0151-dropout-layer) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2025-09-09 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-09-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-09-24 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-03-27 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2025-09-09 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-09-18 | [solution](problems/0054-implementing-a-simple-rnn) |
@@ -64,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-09-12 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2025-04-04 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-04-04 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-09-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-04-16 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 
 ---
