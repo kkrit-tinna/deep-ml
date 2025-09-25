@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 55 problems · 0 labs · 0 math
+**56** solved · 56 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-09-16 | [solution](problems/0151-dropout-layer) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2025-09-09 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-09-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2025-09-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-09-24 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-03-27 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2025-09-09 | [solution](problems/0173-implement-k-nearest-neighbors) |
