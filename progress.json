@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:05.608Z",
+  "generated_at": "2026-10-07T18:27:07.736Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -806,6 +806,32 @@
       "last_pushed_at": "2025-10-15T02:55:10.731Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2025-10-21T03:32:05.791Z",
+      "last_pushed_at": "2025-10-21T03:32:05.791Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2025-10-21T03:42:57.643Z",
+      "last_pushed_at": "2025-10-21T03:42:57.643Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
