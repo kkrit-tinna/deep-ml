@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:09.831Z",
+  "generated_at": "2026-10-07T18:27:12.084Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -884,6 +884,32 @@
       "last_pushed_at": "2025-10-28T02:53:21.097Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2025-10-29T01:08:08.189Z",
+      "last_pushed_at": "2025-10-29T01:08:08.189Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2025-10-29T03:01:56.049Z",
+      "last_pushed_at": "2025-10-29T03:01:56.049Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
