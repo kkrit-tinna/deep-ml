@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:12.084Z",
+  "generated_at": "2026-10-07T18:27:14.089Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -910,6 +910,45 @@
       "last_pushed_at": "2025-10-29T03:01:56.049Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:33": {
+      "kind": "problem",
+      "id": "33",
+      "title": "Generate Random Subsets of a Dataset",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/33",
+      "path": "problems/0033-generate-random-subsets-of-a-dataset",
+      "first_solved_at": "2025-11-17T22:57:47.104Z",
+      "last_pushed_at": "2025-11-17T22:57:47.104Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2025-11-17T22:59:54.214Z",
+      "last_pushed_at": "2025-11-17T22:59:54.214Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2025-11-17T23:17:45.464Z",
+      "last_pushed_at": "2025-11-17T23:17:45.464Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

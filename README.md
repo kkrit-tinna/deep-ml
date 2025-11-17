@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 70 problems · 0 labs · 0 math
+**73** solved · 73 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,14 +61,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2025-04-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-26 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-09-11 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-11-17 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-09-16 | [solution](problems/0151-dropout-layer) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2025-09-09 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
+| [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2025-11-17 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-09-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2025-09-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-09-24 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-03-27 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2025-09-09 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2025-10-02 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-11-17 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-10-01 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-10-15 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-09-18 | [solution](problems/0054-implementing-a-simple-rnn) |
