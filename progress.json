@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:18.234Z",
+  "generated_at": "2026-10-07T18:27:20.195Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -975,6 +975,32 @@
       "last_pushed_at": "2025-11-21T03:21:24.339Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:141": {
+      "kind": "problem",
+      "id": "141",
+      "title": "Shift and Scale Array to Target Range",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/141",
+      "path": "problems/0141-shift-and-scale-array-to-target-range",
+      "first_solved_at": "2025-11-24T21:01:59.641Z",
+      "last_pushed_at": "2025-11-24T21:01:59.641Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:199": {
+      "kind": "problem",
+      "id": "199",
+      "title": "Early Stopping Based on Validation Loss Plateau",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/199",
+      "path": "problems/0199-early-stopping-based-on-validation-loss-plateau",
+      "first_solved_at": "2025-11-24T21:22:43.327Z",
+      "last_pushed_at": "2025-11-24T21:22:43.327Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
