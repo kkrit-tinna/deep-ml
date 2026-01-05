@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:20.195Z",
+  "generated_at": "2026-10-07T18:27:22.278Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -1001,6 +1001,58 @@
       "last_pushed_at": "2025-11-24T21:22:43.327Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-01-05T21:02:18.654Z",
+      "last_pushed_at": "2026-01-05T21:02:18.654Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-01-05T21:11:05.448Z",
+      "last_pushed_at": "2026-01-05T21:11:05.448Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-01-05T21:42:37.535Z",
+      "last_pushed_at": "2026-01-05T21:42:37.535Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-01-05T21:50:19.300Z",
+      "last_pushed_at": "2026-01-05T21:50:19.300Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
