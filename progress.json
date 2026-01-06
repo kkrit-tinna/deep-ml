@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:22.278Z",
+  "generated_at": "2026-10-07T18:27:24.388Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -1053,6 +1053,45 @@
       "last_pushed_at": "2026-01-05T21:50:19.300Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-01-06T20:20:07.005Z",
+      "last_pushed_at": "2026-01-06T20:20:07.005Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:305": {
+      "kind": "problem",
+      "id": "305",
+      "title": "Implement Hard Voting Classifier",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/305",
+      "path": "problems/0305-implement-hard-voting-classifier",
+      "first_solved_at": "2026-01-06T20:28:18.939Z",
+      "last_pushed_at": "2026-01-06T20:28:18.939Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:60": {
+      "kind": "problem",
+      "id": "60",
+      "title": "Implement TF-IDF (Term Frequency-Inverse Document Frequency)",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/60",
+      "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
+      "first_solved_at": "2026-01-06T21:17:42.313Z",
+      "last_pushed_at": "2026-01-06T21:17:42.313Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
