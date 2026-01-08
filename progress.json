@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:26.437Z",
+  "generated_at": "2026-10-07T18:27:28.406Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -1131,6 +1131,45 @@
       "last_pushed_at": "2026-01-07T19:14:16.412Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-01-08T19:59:41.882Z",
+      "last_pushed_at": "2026-01-08T19:59:41.882Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:126": {
+      "kind": "problem",
+      "id": "126",
+      "title": "Implement Group Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/126",
+      "path": "problems/0126-implement-group-normalization",
+      "first_solved_at": "2026-01-08T20:13:30.668Z",
+      "last_pushed_at": "2026-01-08T20:13:30.668Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2026-01-08T20:22:51.700Z",
+      "last_pushed_at": "2026-01-08T20:22:51.700Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
