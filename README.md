@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 91 problems · 0 labs · 0 math
+**96** solved · 96 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-09 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-04-03 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-05-14 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-04-08 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
@@ -25,7 +26,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-03-19 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-10-29 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-09-17 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-09 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-09-06 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-09 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-03-22 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2025-09-17 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-10-03 | [solution](problems/0083-dot-product-calculator) |
@@ -34,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2025-09-19 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-03-20 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2025-10-29 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-09-09 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2025-10-21 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2025-10-21 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2025-09-08 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
@@ -58,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2025-04-10 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-04-12 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2025-03-21 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-09 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-03-18 | [solution](problems/0003-reshape-matrix) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2025-09-06 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-03-25 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
