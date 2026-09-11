@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:32.312Z",
+  "generated_at": "2026-10-07T18:27:34.614Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -1248,6 +1248,32 @@
       "last_pushed_at": "2026-09-09T18:55:55.691Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:955": {
+      "kind": "problem",
+      "id": "955",
+      "title": "Simple Self-Attention Without Trainable Weights",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/955",
+      "path": "problems/0955-simple-self-attention-without-trainable-weights",
+      "first_solved_at": "2026-09-11T01:12:54.609Z",
+      "last_pushed_at": "2026-09-11T01:12:54.609Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:956": {
+      "kind": "problem",
+      "id": "956",
+      "title": "Apply Dropout to Attention Weights",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/956",
+      "path": "problems/0956-apply-dropout-to-attention-weights",
+      "first_solved_at": "2026-09-11T01:56:37.156Z",
+      "last_pushed_at": "2026-09-11T01:56:37.156Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

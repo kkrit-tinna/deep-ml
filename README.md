@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 96 problems · 0 labs · 0 math
+**98** solved · 98 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-09 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
+| [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-09-11 | [solution](problems/0956-apply-dropout-to-attention-weights) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-04-03 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-05-14 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-04-08 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
@@ -68,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-03-25 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2025-11-24 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-03-29 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-09-11 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2025-04-18 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-03-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2025-04-16 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
