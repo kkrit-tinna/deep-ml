@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:27:38.359Z",
+  "generated_at": "2026-10-07T18:27:40.220Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -1326,6 +1326,32 @@
       "last_pushed_at": "2026-09-15T23:21:53.011Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:898": {
+      "kind": "problem",
+      "id": "898",
+      "title": "Backprop a Linear Layer by Hand",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/898",
+      "path": "problems/0898-backprop-a-linear-layer-by-hand",
+      "first_solved_at": "2026-09-16T20:25:27.181Z",
+      "last_pushed_at": "2026-09-16T20:25:27.181Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:899": {
+      "kind": "problem",
+      "id": "899",
+      "title": "Build a Dataset and Use It with a DataLoader",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/899",
+      "path": "problems/0899-build-a-dataset-and-use-it-with-a-dataloader",
+      "first_solved_at": "2026-09-16T21:22:43.197Z",
+      "last_pushed_at": "2026-09-16T21:22:43.197Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
