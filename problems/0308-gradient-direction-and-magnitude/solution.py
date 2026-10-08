@@ -26,6 +26,6 @@ def gradient_direction_magnitude(gradient: list) -> dict:
 	
 	return {
 		'magnitude': magnitude,
-		'direction':direction,
-		'descent_direction': descent_direction
+		'direction':direction.tolist(),
+		'descent_direction': descent_direction.tolist()
 	}
