@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:27:00.455Z",
+  "generated_at": "2026-10-09T21:10:01.690Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -1469,6 +1469,19 @@
       "last_pushed_at": "2026-10-09T20:26:59.918Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:1380": {
+      "kind": "problem",
+      "id": "1380",
+      "title": "One-vs-Rest and One-vs-One Score Aggregation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1380",
+      "path": "problems/1380-one-vs-rest-and-one-vs-one-score-aggregation",
+      "first_solved_at": "2026-10-09T21:10:00.975Z",
+      "last_pushed_at": "2026-10-09T21:10:00.975Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
