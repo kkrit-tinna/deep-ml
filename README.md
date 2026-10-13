@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**114** solved · 114 problems · 0 labs · 0 math
+**115** solved · 115 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-09 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-09-11 | [solution](problems/0956-apply-dropout-to-attention-weights) |
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-09-16 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
+| [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-10-13 | [solution](problems/1057-balance-dataset-via-undersampling) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-04-03 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-05-14 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Build a Dataset and Use It with a DataLoader](https://www.deep-ml.com/problems/899) | easy | 2026-09-16 | [solution](problems/0899-build-a-dataset-and-use-it-with-a-dataloader) |
