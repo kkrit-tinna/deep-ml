@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**115** solved · 115 problems · 0 labs · 0 math
+**116** solved · 116 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-04-12 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Prefix Cache Hit Rate Calculator](https://www.deep-ml.com/problems/434) | easy | 2026-10-09 | [solution](problems/0434-prefix-cache-hit-rate-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2025-03-21 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-13 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-09 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-03-18 | [solution](problems/0003-reshape-matrix) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-09-14 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
