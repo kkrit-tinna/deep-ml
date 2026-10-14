@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**119** solved · 119 problems · 0 labs · 0 math
+**120** solved · 120 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,6 +93,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-03-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-07 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-10-14 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
+| [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-10-14 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2025-04-16 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-03-12 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-01-08 | [solution](problems/0087-adam-optimizer) |
