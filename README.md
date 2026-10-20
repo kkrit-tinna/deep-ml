@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**123** solved · 123 problems · 0 labs · 0 math
+**124** solved · 124 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -92,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2025-11-24 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-03-29 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-09-11 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
+| [Simulate Two-Dice Sum Distribution](https://www.deep-ml.com/problems/1139) | easy | 2026-10-20 | [solution](problems/1139-simulate-two-dice-sum-distribution) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2025-04-18 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-03-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-07 | [solution](problems/0153-steplr-learning-rate-scheduler) |
