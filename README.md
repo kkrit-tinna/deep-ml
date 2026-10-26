@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**130** solved · 130 problems · 0 labs · 0 math
+**131** solved · 131 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2025-09-09 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2025-11-17 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-09-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-10-26 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2025-09-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-01-08 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-10-23 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
