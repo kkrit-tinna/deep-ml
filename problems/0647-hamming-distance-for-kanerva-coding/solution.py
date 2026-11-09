@@ -12,13 +12,16 @@ def hamming_distance_kanerva(state: list, prototypes: list, threshold: int) -> t
     Returns:
         Tuple of (distances, active_indices).
     """
-    if not prototypes:
-        return [], []
+    dist = []
+    active = []
+
+    for i, proto in enumerate(prototypes):
+        d = 0
+        for a, b in zip(state, proto):
+            if a != b:
+                d += 1
+        dist.append(d)
+        if d <= threshold:
+            active.append(i)
     
-    s = np.asarray(state)
-    p = np.array(prototypes)
-
-    dist = (p!=s).sum(axis=1)
-    active = np.flatnonzero(dist <= threshold)
-
-    return dist.tolist(), active.tolist()
+    return dist, active
