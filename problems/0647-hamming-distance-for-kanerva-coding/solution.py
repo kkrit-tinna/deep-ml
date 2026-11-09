@@ -1,0 +1,24 @@
+import numpy as np
+
+def hamming_distance_kanerva(state: list, prototypes: list, threshold: int) -> tuple:
+    """
+    Compute Hamming distances and find active prototypes for Kanerva coding.
+
+    Args:
+        state: Binary state vector (list of 0s and 1s).
+        prototypes: List of binary prototype vectors.
+        threshold: Maximum Hamming distance for a prototype to be active.
+
+    Returns:
+        Tuple of (distances, active_indices).
+    """
+    if not prototypes:
+        return [], []
+    
+    s = np.asarray(state)
+    p = np.array(prototypes)
+
+    dist = (p!=s).sum(axis=1)
+    active = np.flatnonzero(dist <= threshold)
+
+    return dist.tolist(), active.tolist()
