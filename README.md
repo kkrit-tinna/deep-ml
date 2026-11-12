@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**137** solved · 137 problems · 0 labs · 0 math
+**138** solved · 138 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -113,6 +113,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2025-04-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-26 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-09-11 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Detect a Cycle in a Linked List and a Graph](https://www.deep-ml.com/problems/1087) | medium | 2026-11-12 | [solution](problems/1087-detect-a-cycle-in-a-linked-list-and-a-graph) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-11-17 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-09-16 | [solution](problems/0151-dropout-layer) |
 | [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-11-12 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
