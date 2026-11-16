@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**140** solved · 140 problems · 0 labs · 0 math
+**141** solved · 141 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -147,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2025-04-04 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-10-26 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-04-04 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Random Pick with Weight (Prefix Sum + Binary Search)](https://www.deep-ml.com/problems/1165) | medium | 2026-11-16 | [solution](problems/1165-random-pick-with-weight-prefix-sum-binary-search) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-09-30 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-09-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-04-16 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
