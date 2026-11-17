@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**142** solved · 142 problems · 0 labs · 0 math
+**143** solved · 143 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -152,6 +152,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-09-30 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-09-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-04-16 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Stack Samples to Trace Events Converter](https://www.deep-ml.com/problems/1092) | medium | 2026-11-17 | [solution](problems/1092-stack-samples-to-trace-events-converter) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2025-11-18 | [solution](problems/0094-implement-multi-head-attention) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2025-11-21 | [solution](problems/0085-positional-encoding-calculator) |
 

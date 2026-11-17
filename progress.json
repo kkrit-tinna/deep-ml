@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:33:38.589Z",
+  "generated_at": "2026-11-17T23:47:29.175Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -1846,6 +1846,19 @@
       "last_pushed_at": "2026-11-16T22:33:37.954Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1092": {
+      "kind": "problem",
+      "id": "1092",
+      "title": "Stack Samples to Trace Events Converter",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1092",
+      "path": "problems/1092-stack-samples-to-trace-events-converter",
+      "first_solved_at": "2026-11-17T23:47:28.467Z",
+      "last_pushed_at": "2026-11-17T23:47:28.467Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
