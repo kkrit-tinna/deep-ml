@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:25:28.102Z",
+  "generated_at": "2026-11-18T21:57:02.631Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -1885,6 +1885,19 @@
       "last_pushed_at": "2026-11-18T21:25:27.532Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:1159": {
+      "kind": "problem",
+      "id": "1159",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1159",
+      "path": "problems/1159-minimum-remove-to-make-valid-parentheses",
+      "first_solved_at": "2026-11-18T21:56:59.296Z",
+      "last_pushed_at": "2026-11-18T21:56:59.296Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
