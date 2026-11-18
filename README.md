@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**144** solved · 144 problems · 0 labs · 0 math
+**145** solved · 145 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -145,6 +145,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-03-27 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-04-09 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-04-02 | [solution](problems/0007-matrix-transformation) |
+| [Merge Intervals and Interval List Intersections](https://www.deep-ml.com/problems/1167) | medium | 2026-11-18 | [solution](problems/1167-merge-intervals-and-interval-list-intersections) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-09-12 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2025-04-04 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-10-26 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
