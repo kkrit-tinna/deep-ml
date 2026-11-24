@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**146** solved · 146 problems · 0 labs · 0 math
+**147** solved · 147 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,6 +93,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-10-22 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-09 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-03-18 | [solution](problems/0003-reshape-matrix) |
+| [Reverse a Singly Linked List](https://www.deep-ml.com/problems/1250) | easy | 2026-11-24 | [solution](problems/1250-reverse-a-singly-linked-list) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-09-14 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2025-09-06 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-09-15 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
