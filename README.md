@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**147** solved · 147 problems · 0 labs · 0 math
+**148** solved · 148 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Valid Palindrome II (Delete At Most One Char)](https://www.deep-ml.com/problems/1160) | easy | 2026-11-18 | [solution](problems/1160-valid-palindrome-ii-delete-at-most-one-char) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-01-08 | [solution](problems/0087-adam-optimizer) |
 | [Best Meeting Point on a 2D Grid](https://www.deep-ml.com/problems/1085) | medium | 2026-11-16 | [solution](problems/1085-best-meeting-point-on-a-2d-grid) |
+| [Binary Search for Value or Closest Index](https://www.deep-ml.com/problems/1216) | medium | 2026-11-25 | [solution](problems/1216-binary-search-for-value-or-closest-index) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-09-23 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2025-04-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-26 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
